@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a05bb2-7e4c-4f3a-8bcf-23ad76b50d94" name="Changes" comment="Commint segundo" />
+    <list default="true" id="11a05bb2-7e4c-4f3a-8bcf-23ad76b50d94" name="Changes" comment="Commint segundo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservice-dev.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -22,7 +25,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/fievel0/service-configuration",
-    "accountId": "1d4390b4-ba6c-4c37-b9be-8d1b19f21d0f"
+    "accountId": "8a8cd077-4c0a-41b6-8905-00ec1865d7ae"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -97,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732035994861</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commint segundo">
+      <option name="closed" value="true" />
+      <created>1732118268144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732118268144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
