@@ -7,6 +7,7 @@
     <list default="true" id="11a05bb2-7e4c-4f3a-8bcf-23ad76b50d94" name="Changes" comment="Commit con actualización">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/booking-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservice-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-microservice-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservice-prod.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/FABIAN/Desktop/proy_spring/microservicios/config-server",
+    "last_opened_file_path": "C:/Users/FABIAN/Desktop/proy_spring/microservicios/service-configuration",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -132,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732387402437</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit con actualización">
+      <option name="closed" value="true" />
+      <created>1732419595770</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732419595770</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit con actualización">
+      <option name="closed" value="true" />
+      <created>1732421043952</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732421043952</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
